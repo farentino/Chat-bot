@@ -1,0 +1,14 @@
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/farentinoballakistan/Cybersecurity_Bot/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
